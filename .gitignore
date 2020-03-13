@@ -1,6 +1,6 @@
 .DS_Store
 node_modules
 __sapper__
-dist
-/runtime/app.mjs
-/runtime/server.mjs
+#   dist
+# /runtime/app.mjs
+# /runtime/server.mjs
